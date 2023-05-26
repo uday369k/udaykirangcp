@@ -1,1 +1,2 @@
 Bigquery is serverless,cost efficient enterprise dataware working on clouds which can scale accrording to the data with bulit in ai/ml and bi.
+Bigquery has bulit in query engine which can perform terabytes of data in seconds and petabytes of data in minutes
